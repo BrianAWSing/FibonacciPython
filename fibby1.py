@@ -1,11 +1,14 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#
 #Licence: MIT
 #
-#Author(s): Brian Byrne
+#Author(s): Brian Byrne.
 #
 #Program purpose:
 #----------------
 # 
-# Display Fibonacci sequence
+# Display Fibonacci sequence.
 #
 #Program notes:
 #--------------
